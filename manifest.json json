@@ -1,5 +1,5 @@
 {
-  "name": "My Shortcut",
+  "name": "Custom Shortcut",
   "short_name": "Shortcut",
   "start_url": ".",
   "display": "standalone",
